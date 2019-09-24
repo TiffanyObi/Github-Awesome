@@ -16,7 +16,7 @@
 5. rm -rf - deletes a directory
 
 ## vi ( Visual editor)
-1. :wq
+1. :wq - always add the colon. w means to save and q means to quit. both means to save and then quit a file
 2. ecs - command mode
 3. i - insert mode
 
