@@ -9,7 +9,7 @@
 5. git log - shows your history
 
 ## Terminal
-1. ls
+1. ls 
 2. cd
 3. touch
 4. rm
