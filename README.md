@@ -9,11 +9,11 @@
 5. git log - shows your history
 
 ## Terminal
-1. ls 
-2. cd
-3. touch
-4. rm
-rm -rf - deletes a directory
+1. ls - lists files in folder
+2. cd - change directory
+3. touch - create a file
+4. rm - remove a file: remember its case sensitive
+5. rm -rf - deletes a directory
 
 ## vi ( Visual editor)
 1. :wq
