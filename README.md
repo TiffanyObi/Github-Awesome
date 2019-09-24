@@ -2,11 +2,11 @@
 
 ## Git commands 
 
-1. git init
-2. git status
-3. git add
-4. git push
-5.l git log - shows your history
+1. git init - how we create a new repo 
+2. git status - this tells us what our "status" is
+3. git add - add the updated file to the staging area to prepare to push
+4. git push - "pushing" your updated files from local to remote
+5. git log - shows your history
 
 ## Terminal
 1. ls
